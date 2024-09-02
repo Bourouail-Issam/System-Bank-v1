@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V1_Bank\\Run_Version1_Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D16BFE-B0D8-461C-88D0-FD37C17C231E}|Run_Version1_Bank.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V1_Bank\\Run_Version1_Bank\\Run_Version1_Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35D16BFE-B0D8-461C-88D0-FD37C17C231E}|Run_Version1_Bank.vcxproj|solutionrelative:Run_Version1_Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Run_Version1_Bank.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V1_Bank\\Run_Version1_Bank\\Run_Version1_Bank.cpp",
+              "RelativeDocumentMoniker": "Run_Version1_Bank.cpp",
+              "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V1_Bank\\Run_Version1_Bank\\Run_Version1_Bank.cpp",
+              "RelativeToolTip": "Run_Version1_Bank.cpp",
+              "ViewState": "AQIAAKgBAAAAAAAAAAAIwLsBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T00:54:48.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

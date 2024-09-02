@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V3_Bank\\System_bank_V3_Login_And_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E55D4EE-920B-43C9-9AC9-BA19FE5A8364}|System_bank_V3_Login_And_Manager.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V3_Bank\\System_bank_V3_Login_And_Manager\\System_bank_V3_Login_And_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E55D4EE-920B-43C9-9AC9-BA19FE5A8364}|System_bank_V3_Login_And_Manager.vcxproj|solutionrelative:System_bank_V3_Login_And_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "System_bank_V3_Login_And_Manager.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V3_Bank\\System_bank_V3_Login_And_Manager\\System_bank_V3_Login_And_Manager.cpp",
+              "RelativeDocumentMoniker": "System_bank_V3_Login_And_Manager.cpp",
+              "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\System__Bank\\V3_Bank\\System_bank_V3_Login_And_Manager\\System_bank_V3_Login_And_Manager.cpp",
+              "RelativeToolTip": "System_bank_V3_Login_And_Manager.cpp",
+              "ViewState": "AQIAAEMFAAAAAAAAAAAIwGEFAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T01:10:55.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
